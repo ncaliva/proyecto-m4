@@ -42,3 +42,7 @@ sabía que existía. Mi primer proyecto incluso mi primer documento. Mejoraría
 más las variables y conceptos que quizás no tuve en cuenta. Me llevo para el 
 próximo ya como realizarlo en su totalidad para hacerlo más 
 independientemente.
+
+## Limitaciones
+- El cron job corre a las 3:00 AM. Si la VM está apagada a esa hora, el job no 
+se ejecuta. Para jobs que deben correr sí o sí, se usa `anacron`.
