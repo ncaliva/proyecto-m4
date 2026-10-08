@@ -53,3 +53,12 @@ Basicamente subir el proyecto a GitHub.
 Aprendi literalmente como subir el proyecto a GitHub y tambien a mantenerlo actualizado.
 ### Qué me trabó
 Lo unico que podria considerar como traba, que ni siquiera fue eso, fue el token pero se soluciono rapidamente.
+
+## Día 7 — 2026-10-08
+
+### Qué hice
+Chequeo de que todo funcione correctamente.
+### Qué aprendí
+Aparecio un error con cron que no corre debido a la VM esta apagada. Debio usarse anacron a niveles del proyecto se queda asi, pero para la proxima en un proyecto profesional se debe corregir.
+### Qué me trabó
+La verdad que nada, no hubo algo que personalmente me haya trabado ya que este error pudo solucionarse de manera que se use como aprendizaje para futuros proyectos.
