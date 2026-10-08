@@ -35,3 +35,21 @@ Simule 5 intentos fallidos por SSH, a su vez se detecto que el script no leia lo
 Aprendi sobre la rotacion de logs. zgrep para archivos comprimidos y bucle for para precisamente esos archivos.
 ### Qué me trabó
 La verdad que fue un dato muy util descubrir los logs rotados, pero el tema del bucle for y sumar los conteos me costo demasiado, me descoloco mucho.
+
+## Día 5 — 2026-10-08
+
+### Qué hice
+Escribi el README.md para GitHub.
+### Qué aprendí
+Aprendi por primera vez a documentar con mis palabras en un proyecto y senti muy importante poder realizarlo.
+### Qué me trabó
+Precisamente al ser la primera vez que documento que es lo que hago, es lo que me costo.
+
+## Día 6 — 2026-10-08
+
+### Qué hice
+Basicamente subir el proyecto a GitHub.
+### Qué aprendí
+Aprendi literalmente como subir el proyecto a GitHub y tambien a mantenerlo actualizado.
+### Qué me trabó
+Lo unico que podria considerar como traba, que ni siquiera fue eso, fue el token pero se soluciono rapidamente.
