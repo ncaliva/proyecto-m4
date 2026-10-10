@@ -63,4 +63,4 @@ Aparecio un error con cron que no corre debido a la VM esta apagada. Debio usars
 ### Qué me trabó
 La verdad que nada, no hubo algo que personalmente me haya trabado ya que este error pudo solucionarse de manera que se use como aprendizaje para futuros proyectos.
 
-Update de prueba.
+Update de prueba 2.
